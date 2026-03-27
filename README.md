@@ -39,3 +39,13 @@ spring.datasource.password=tua_password
 spring.jpa.hibernate.ddl-auto=update
 
 # Configurazione WebSocket
+
+## Collegamenti al Progetto
+
+🔗 **Frontend & Auth**: Questo servizio è parte della piattaforma principale [JobBoard-Laravel](https://github.com/Frant88/JobBoard). Il frontend gestisce l'autenticazione e la generazione dei ticket necessari per connettersi a questo socket.
+
+## Licenza
+
+Questo progetto è distribuito sotto licenza MIT. Vedi il file [LICENSE](LICENSE) per i dettagli.
+
+Copyright (c) 2026 Francesco Casaluce
